@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on android apps
 - 🌱 I’m currently learning java
-- 👯 I’m looking to achieve oracle java certificate
+- 👯 I’m looking to achieve oracle java certification
 - 🤔 Need help in firebase
 - 💬 Ask me about android studio and java
 - 📫 How to reach me: email - kaushik116k@gmail.com
