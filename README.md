@@ -9,6 +9,8 @@
 - 📫 How to reach me: email - kaushik116k@gmail.com
 - ⚡ Fun fact: I almost spend 1 year and app development
 
+![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+
 <img src = "https://github-readme-stats.vercel.app/api?username=kauhik116k&show_icons=true&theme=highcontrast">
 
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=kauhik116k">
