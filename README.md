@@ -10,4 +10,4 @@
 - ⚡ Fun fact: I almost spend 1 year and app development
 
 
-<img src = "https://github-readme-stats.vercel.app/api?username=kauhik116k&show_icons=true&theme=merko">
+<img src = "https://github-readme-stats.vercel.app/api?username=kauhik116k&show_icons=true&theme=highcontrast">
